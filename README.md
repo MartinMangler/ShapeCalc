@@ -41,7 +41,7 @@ Detailed explanations of the binning procedure and statistical approach, as well
 
 ## Files Included
 
-- [ShapeCalc_v1.0.xlsx]([./Shapecalc_v1.0.xlsx](https://github.com/MartinMangler/ShapeCalc/raw/refs/heads/main/Shapecalc_v1.0.xlsx) — Excel tool for estimating 3D shape from 2D outlines  
+- [ShapeCalc_v1.0.xlsx](https://github.com/MartinMangler/ShapeCalc/raw/refs/heads/main/Shapecalc_v1.0.xlsx) — Excel tool for estimating 3D shape from 2D outlines  
 - [ShapeCalc_documentation](./ShapeCalc_documentation.pdf) — Methodological details and comparison to CSDslice
 - [LICENSE.md](./LICENSE) — License information
 - [README.md](./README.md) — This file  
