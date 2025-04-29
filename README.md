@@ -30,8 +30,7 @@ Whether you are aiming to **calculate 3D crystal shape**, **convert 2D measureme
 
 ## How to Use
 
-1. Extract 2D width and length measurements from images of crystal intersections — **≥200 crystals** is recommended for statistical robustness (see Mangler et al., 2022).  
-   *Tip: Use the "Fit Ellipse" tool in ImageJ.*
+1. Extract 2D width and length measurements from images of crystal intersections — **≥200 crystals** is recommended for statistical robustness (see Mangler et al., 2022). *Tip: Use the "Fit Ellipse" tool in ImageJ.*
 2. Open the Excel file  
 3. Paste your measurements into the input columns  
 4. ShapeCalc will automatically compute the most likely 3D aspect ratio, including associated uncertainties  
@@ -42,9 +41,10 @@ Detailed explanations of the binning procedure and statistical approach, as well
 
 ## Files Included
 
-- `ShapeCalc_v1.0.xlsx` — Excel tool for estimating 3D shape from 2D outlines  
-- `ShapeCalc_documentation` — Methodological details and comparison to CSDslice 
-- `README.md` — This file  
+- [ShapeCalc_v1.0.xlsx](./ShapeCalc_v1.0) — Excel tool for estimating 3D shape from 2D outlines  
+- [ShapeCalc_documentation](./ShapeCalc_documentation.pdf) — Methodological details and comparison to CSDslice
+- [LICENSE.md](./LICENSE.md) — License information
+- [README.md](./README.md) — This file  
 
 ---
 
@@ -78,6 +78,6 @@ M.F.Mangler@soton.ac.uk
 
 ## License
 
-This tool is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-See the `LICENSE` file for details.
+This tool is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license.
+See the [LICENSE](./LICENSE.md) file for details.
 
